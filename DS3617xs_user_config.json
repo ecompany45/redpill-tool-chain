@@ -1,0 +1,20 @@
+{
+  "extra_cmdline": {
+    "pid": "0x6545",
+    "vid": "0x0930",
+    "sn": "21505QRW12AHH",
+    "mac1": "001132FA6CD3",
+    "mac2": "001132FA6CD4",
+    "mac2": "001132FA6CD5",
+    "mac2": "001132FA6CD6",
+    "mac2": "001132FA6CD7"
+  },
+  "synoinfo": {
+    "maxdisks": "24",
+    "maxlanport": "5",
+    "usbportcfg": "0x30000",
+    "esataportcfg": "0x0",
+    "internalportcfg": "0xffff"
+  },
+  "ramdisk_copy": {}
+}
